@@ -1,0 +1,9 @@
+{
+        label: 'Publish npm package',
+        isDone: false
+    },
+    {
+        label: 'Write some documentation',
+        isDone: false
+    {
+ }
